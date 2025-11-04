@@ -27,7 +27,7 @@ export const MAIN_NAV: NavItem[] = [
 export const SOURCE_CODE_GITHUB_REPO =
   "https://github.com/yassinekamouss/yassinekamouss.me.git";
 export const SOURCE_CODE_GITHUB_URL =
-  "https://github.com/yassinekamouss/yassinekamouss.me-.git";
+  "https://github.com/yassinekamouss/yassinekamouss.me.git";
 
 export const UTM_PARAMS = {
   utm_source: "yassinekamouss.me",

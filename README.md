@@ -34,6 +34,7 @@ A minimal, fast, and clean personal portfolio built with Next.js 15, React 19, T
 ## 🚀 Getting Started
 
 Prerequisites:
+
 - Node.js 20+ (or >=22)
 - pnpm 9+ (the repo uses pnpm 10.x)
 

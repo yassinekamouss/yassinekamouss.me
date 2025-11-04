@@ -9,14 +9,33 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "",
-        port: "",
+        hostname: "nlifytjvdlnrgaervfwo.supabase.co",
+      },
+      {
+        protocol: "https",
+        hostname: "www.yassinekamouss.me",
+      },
+      {
+        protocol: "https",
+        hostname: "yassinekamouss.me",
+      },
+      {
+        protocol: "https",
+        hostname: "yassinekamouss.vercel.app",
+      },
+      {
+        protocol: "https",
+        hostname: "www.docker.com",
+      },
+      {
+        protocol: "https",
+        hostname: "www.linkedin.com",
       },
     ],
   },
   eslint: {
     ignoreDuringBuilds: true,
-  }
+  },
 };
 
 export default nextConfig;

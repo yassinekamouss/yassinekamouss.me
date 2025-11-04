@@ -2,8 +2,6 @@ import dayjs from "dayjs";
 import type { ProfilePage as PageSchema, WithContext } from "schema-dts";
 
 import { USER } from "@/data/user";
-import { cn } from "@/lib/utils";
-
 import { About } from "@/features/profile/components/about";
 import { Brand } from "@/features/profile/components/brand";
 import { Certifications } from "@/features/profile/components/certifications";
@@ -15,6 +13,7 @@ import { ProfileHeader } from "@/features/profile/components/profile-header";
 import { Projects } from "@/features/profile/components/projects";
 import { SocialLinks } from "@/features/profile/components/social-links";
 import { TeckStack } from "@/features/profile/components/teck-stack";
+import { cn } from "@/lib/utils";
 
 export default function Page() {
   return (

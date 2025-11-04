@@ -1,0 +1,37 @@
+
+> yassinekamouss.me@0.1.0 prebuild /home/yassine-kamouss/Bureau/yassinekamouss.me
+> tsx --tsconfig ./tsconfig.scripts.json ./src/scripts/build-registry.mts
+
+💽 Building registry...
+✅ Done!
+
+> yassinekamouss.me@0.1.0 build /home/yassine-kamouss/Bureau/yassinekamouss.me
+> next build --turbopack
+
+   ▲ Next.js 15.4.6 (Turbopack)
+
+   Creating an optimized production build ...
+ ✓ Finished writing to disk in 10ms
+ ✓ Compiled successfully in 7.3s
+   Skipping linting
+   Checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/6) ...
+   Generating static pages (1/6) 
+   Generating static pages (2/6) 
+   Generating static pages (4/6) 
+ ✓ Generating static pages (6/6)
+   Finalizing page optimization ...
+   Collecting build traces ...
+ ⚠ Support for Turbopack builds is experimental. We don't recommend deploying mission-critical applications to production.
+
+- Turbopack currently always builds production source maps for the browser. This will include project source code if deployed to production.
+- It is expected that your bundle size might be different from `next build` with webpack. This will be improved as we work towards stability.
+- This build is without disk caching; subsequent builds will become faster when disk caching becomes available.
+- When comparing output to webpack builds, make sure to first clear the Next.js cache by deleting the `.next` directory.
+
+Provide feedback for Turbopack builds at https://github.com/vercel/next.js/discussions/77721
+
+> Build error occurred
+[TypeError: Expected a non-empty string]
+ ELIFECYCLE  Command failed with exit code 1.

@@ -35,7 +35,7 @@ export const PROJECTS: Project[] = [
     skills: ["Angular", "CSS", "Firebase", "TypeScript"],
     description:
       "Game Dashboard is an interactive web platform designed for educational tracking of students through gamification. It allows teachers to manage courses, track student progress, and display dynamic statistics through a modern user interface.",
-    logo: "https://www.yassinekamouss.me/assets/admin_dashboard-D9hK5_WJ.png",
+    logo: "https://yassinekamouss.vercel.app/assets/admin_dashboard-D9hK5_WJ.png",
   },
   {
     id: "3",
@@ -48,7 +48,7 @@ export const PROJECTS: Project[] = [
     skills: ["React", "Tailwind CSS", "MySQL", "Symfony"],
     description:
       "Project allowing users to publish and search for houses to rent with a complete management system including authentication, advanced search, and reservation management.",
-    logo: "https://www.yassinekamouss.me/assets/LocaMaison-DXVj_i8m.png",
+    logo: "https://yassinekamouss.vercel.app/assets/LocaMaison-DXVj_i8m.png",
   },
   {
     id: "4",
@@ -61,7 +61,7 @@ export const PROJECTS: Project[] = [
     skills: ["Laravel", "JavaScript", "Stripe", "Bootstrap"],
     description:
       "Web application allowing users to search, filter, and purchase automotive parts online with an order management system and secure payments.",
-    logo: "https://www.yassinekamouss.me/assets/Bag-XahpZm1t.png",
+    logo: "https://yassinekamouss.vercel.app/assets/Bag-XahpZm1t.png",
   },
   {
     id: "5",
@@ -74,7 +74,7 @@ export const PROJECTS: Project[] = [
     skills: ["Bootstrap", "PHP", "MySQL", "JavaScript"],
     description:
       "Web application allowing students to apply for different programs (Bachelor, Master, Engineering Cycle) with an application tracking system.",
-    logo: "https://www.yassinekamouss.me/assets/preinscription-CTpcu_aE.png",
+    logo: "https://yassinekamouss.vercel.app/assets/preinscription-CTpcu_aE.png",
   },
   {
     id: "6",
@@ -87,7 +87,7 @@ export const PROJECTS: Project[] = [
     skills: ["Alpine.js", "PHP", "MySQL", "Tailwind CSS"],
     description:
       "Project designed to help teams organize, track, and collaborate effectively on projects with advanced management tools.",
-    logo: "https://www.yassinekamouss.me/assets/phpPlanFlow-Bwfy0bcK.png",
+    logo: "https://yassinekamouss.vercel.app/assets/phpPlanFlow-Bwfy0bcK.png",
   },
   {
     id: "7",
@@ -100,7 +100,7 @@ export const PROJECTS: Project[] = [
     skills: ["Streamlit", "Ollama", "DuckDuckGo Search", "Python"],
     description:
       "Next-generation chatbot application that revolutionizes interaction with artificial intelligence by combining: Local Intelligence, Real-Time Web Access, Total Privacy, Advanced Streaming",
-    logo: "https://www.yassinekamouss.me/assets/webmind-ZUmL_kOi.png",
+    logo: "https://yassinekamouss.vercel.app/assets/webmind-ZUmL_kOi.png",
   },
   {
     id: "8",
